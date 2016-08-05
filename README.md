@@ -2,7 +2,7 @@
 March 22, 2016
 Git
 
-[![Build Status](https://travis-ci.org/smallmuou/travis-ci-tutorial.svg?branch=master)](https://travis-ci.org/smallmuou/travis-ci-tutorial)
+[![Build Status](https://travis-ci.org/ShaoyuLee/travis-ci-tutorial.svg?branch=master)](https://travis-ci.org/ShaoyuLee/travis-ci-tutorial)
 
 为了提高团队开发的高效性，要求每位成员提交的代码都是可编译，以保证其他成员更新后能够编译成功；当然如果有单元测试，也需要保证单元测试可通性. 而如果要求团队成员自己来完成这些工作，必然无法保证而且浪费时间. Travis-CI就是为解决这些问题而产生的. Travis-CI是一套依托于Github的可持续集成环境，可以帮助coder进行编译验证及单元测试. 本文将从零开始，为大家展现Travis-CI使用方法.
 
